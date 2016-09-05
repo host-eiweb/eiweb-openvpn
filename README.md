@@ -1,4 +1,4 @@
-##ezopenvpn
+##eiweb-openvpn
 =========
 
 OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Debian-based distros, based on Nyr's [openvpn-install](https://github.com/Nyr/openvpn-install) script
@@ -8,7 +8,7 @@ This script will let you setup your own VPN server in no more than one minute, e
 ###Installation
 Run the script and follow the assistant:
 
-`wget https://raw.github.com/cwaffles/ezopenvpn/master/ezopenvpn.sh --no-check-certificate -O ezopenvpn.sh; chmod +x ezopenvpn.sh; ./ezopenvpn.sh`
+`wget https://raw.github.com/host-eiweb/eiweb-openvpn/master/ezopenvpn.sh --no-check-certificate -O ezopenvpn.sh; chmod +x ezopenvpn.sh; ./ezopenvpn.sh`
 
 Once it ends, you can run it again to add more users.
 
