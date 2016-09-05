@@ -17,12 +17,16 @@ Once it ends, you can run it again to add more users.
 - Google DNS servers
 - Port 53 enabled by default for captive portal bypass
 
-###I want to run my own VPN but don't have a server for that
-There are reliable providers where you can get a little VPS for even less than one buck a month.
+###Order VPS server can be as little as $ 3.8 / mo.
 
-- [Secure Dragon (Tampa, FL - Denver, CO - Los Angeles, CA - Chicago, IL)](https://securedragon.net/openvz.php)
-- [High Speed Web (Los Angeles, CA)](http://www.highspeedweb.net/)
-- [IperWeb (Dallas, TX)](http://my.iperweb.com/cart/)
-- [HTTP Zoom (Berkshire, UK)](http://httpzoom.com/)
+Configuration of virtual servers:
 
-If you don't care about sharing an IP address with more people, you should check out the awesome [LowEndSpirit](http://lowendspirit.com/) project. They are providing IPv6-only VPS with NATed IPv4 for only 3€/year.
+- (CPU: 1x3400 Mhz "Xeon", RAM: 512 mb, SSD: 15 Gb) - $3.8/mo.
+- (CPU: 1x3400 Mhz "Xeon", RAM: 1024 mb, SSD: 25 Gb) - $7.5/mo.
+- (CPU: 2x3400 Mhz "Xeon", RAM: 2048 mb, SSD: 40 Gb) - $15/mo.
+- (CPU: 2x3400 Mhz "Xeon", RAM: 4096 mb, SSD: 60 Gb) - $30/mo.
+- (CPU: 4x3400 Mhz "Xeon", RAM: 8192 mb, SSD: 80 Gb) - $62.5/mo.
+
+- [VPS сервер (HostEiweb)](https://hosteiweb.com)
+
+Join now!
