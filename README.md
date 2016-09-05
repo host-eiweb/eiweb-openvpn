@@ -20,13 +20,12 @@ Once it ends, you can run it again to add more users.
 ###Order VPS server can be as little as $ 3.8 / mo.
 
 Configuration of virtual servers:
-
 - (CPU: 1x3400 Mhz "Xeon", RAM: 512 mb, SSD: 15 Gb) - $3.8/mo.
 - (CPU: 1x3400 Mhz "Xeon", RAM: 1024 mb, SSD: 25 Gb) - $7.5/mo.
 - (CPU: 2x3400 Mhz "Xeon", RAM: 2048 mb, SSD: 40 Gb) - $15/mo.
 - (CPU: 2x3400 Mhz "Xeon", RAM: 4096 mb, SSD: 60 Gb) - $30/mo.
 - (CPU: 4x3400 Mhz "Xeon", RAM: 8192 mb, SSD: 80 Gb) - $62.5/mo.
 
-- [VPS сервер (HostEiweb)](https://hosteiweb.com)
+[VPS сервер (HostEiweb)](https://hosteiweb.com)
 
 Join now!
