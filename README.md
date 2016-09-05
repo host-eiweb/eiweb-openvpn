@@ -26,6 +26,6 @@ Configuration of virtual servers:
 - (CPU: 2x3400 Mhz "Xeon", RAM: 4096 mb, SSD: 60 Gb) - $30/mo.
 - (CPU: 4x3400 Mhz "Xeon", RAM: 8192 mb, SSD: 80 Gb) - $62.5/mo.
 
-[VPS сервер (HostEiweb)](https://hosteiweb.com)
+HostEiweb - [VPS сервер](https://hosteiweb.com)
 
 Join now!
